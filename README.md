@@ -4,12 +4,12 @@ A collection of flashcards created to help prepare for the **HashiCorp Certified
 
 ## 📌 Exam Objectives Covered
 
-- [ ] Understand infrastructure as code (IaC) concepts
-- [ ] Understand Terraform's purpose (vs other IaC)
-- [ ] Understand Terraform basics
-- [ ] Use the Terraform CLI
-- [ ] Interact with Terraform modules
-- [ ] Navigate Terraform workflow
-- [ ] Implement and maintain state
-- [ ] Read, generate, and modify configuration
-- [ ] Understand HashiCorp Cloud and Enterprise capabilities
+1. Understand infrastructure as code (IaC) concepts
+2. Understand Terraform's purpose (vs other IaC)
+3. Understand Terraform basics
+4. Use the Terraform CLI
+5. Interact with Terraform modules
+6. Navigate Terraform workflow
+7. Implement and maintain state
+8. Read, generate, and modify configuration
+9. Understand HashiCorp Cloud and Enterprise capabilities
